@@ -2,3 +2,9 @@ mkdir 'Git_Version Control'
 cd 'Git_Version Control'
 git init
 touch UserList.txt
+git status
+git add UserList.txt
+git status
+git commit -m "commit comment"
+git status
+git log
