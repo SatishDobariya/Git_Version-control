@@ -8,3 +8,17 @@ git status
 git commit -m "commit comment"
 git status
 git log
+touch BlogList.txt
+touch BlogContent.txt
+start file name to open new window
+code file name to open file in vs code
+git add . (to add all files to commit)
+git commit -m "message for commit"
+
+
+When in recording mode is activated.....
+Press Esc key: This ensures you are in normal mode.
+
+Type :wq and press Enter: This command writes (saves) the changes and quits Vim.
+
+Type :q! and press Enter: This command quits Vim without saving changes.
